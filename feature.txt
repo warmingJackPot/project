@@ -1,1 +1,1 @@
-"Версия из conflict-branch" 
+"f Версия из master" 
